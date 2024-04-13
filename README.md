@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Web3 Development**
 
-- 👨‍💻 All of my projects are available at [https://momin-rauf.github.io/portfolio-three.js/](https://momin-rauf.github.io/portfolio-three.js/)
+- 👨‍💻 All of my projects are available at [https://momin-rauf.github.io/portfolio-three.js/]([https://momin-rauf.github.io/portfolio-three.js/](https://portfolio-three-js-rose.vercel.app/))
 
 - 💬 Ask me about **mern and laravel**
 
 - 📫 How to reach me **mrauf.bese21seecs@seecs.edu.pk**
 
-- 📄 Know about my experiences [https://momin-rauf.github.io/portfolio-three.js/](https://momin-rauf.github.io/portfolio-three.js/)
+- 📄 Know about my experiences [(https://portfolio-three-js-rose.vercel.app/)](https://portfolio-three-js-rose.vercel.app/)
 
 - ⚡ Fun fact **I like Football**
 
