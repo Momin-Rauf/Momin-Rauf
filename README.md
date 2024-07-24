@@ -18,10 +18,6 @@
 
 ## 🐍 Contribution Graph Snake
 
-<div align="center"> 
-  <a href="https://github.com/Platane/snk">
-    <img src="https://github.com/Momin-Rauf/Momin-Rauf/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-  </a>
-</div>
+
 
 
